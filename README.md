@@ -5,7 +5,7 @@
   
 - 🛫 I am currently focused on my Master's thesis, working on the problem of UAV visual localization. I also work as a teacher, instructing various STEM subjects.
   
-- 💞️ I’m looking to collaborate on anything that i find interesting!.
+- 💞️ I’m looking to collaborate on anything that i find interesting (mainly Computer Vision related)!
   
 - 📫 You can contact me through Linkedin: www.linkedin.com/in/athanasios-konstantakopoulos
 
