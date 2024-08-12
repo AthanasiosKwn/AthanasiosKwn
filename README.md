@@ -1,5 +1,5 @@
 - 👋 Hello, I’m Athanasios Konstantakopoulos. I have a BSc in Physics from the University of Patras, Greece and I am currently a graduate student at the Department
-     of Computer Engineering and Informatics of the same University, pursuing a Master's Degree in "Information Processing and Machine Intelligence".
+     of Computer Engineering and Informatics of the same University, pursuing a Master's Degree in "Information Processing Systems and Machine Intelligence".
        
 - 👨‍💻 "I have a keen interest in all things related to Science and Technology (definitely a nerd 🤓!), with a particular focus on Data Science, Image and Video Processing, Computer Vision, and Machine Learning."
   
