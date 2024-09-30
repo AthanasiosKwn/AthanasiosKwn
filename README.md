@@ -9,7 +9,7 @@
   
 - 📫 You can contact me through Linkedin: www.linkedin.com/in/athanasios-konstantakopoulos
 
-- ⚡ Fun facts: I like fast cars, expensive watches, unhealthy food and my sense of humour is darker than the protagonist of Netflix's latest adaptation. Also, I nearly failed to pass the entrance exams for the Department of Physics.
+- ⚡ Fun facts: I like fast cars, expensive watches and unhealthy food. Also, I nearly failed to pass the entrance exams for the Department of Physics.
   However, I graduated in the top 10% of my class!
 
 <!---
