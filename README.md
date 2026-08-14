@@ -1,5 +1,4 @@
-- 👋 Hello, I’m Athanasios Konstantakopoulos. I have a BSc in Physics from the University of Patras, Greece and I am currently a graduate student at the Department
-     of Computer Engineering and Informatics of the same University, pursuing a Master's Degree in "Information Processing Systems and Machine Intelligence".
+- 👋 Hello, I’m Athanasios Konstantakopoulos. I have a BSc in Physics from the University of Patras, Greece and a Master's Degree in "Information Processing Systems and Machine Intelligence" from the Department of Computer Engineering and Informatics, of the same University.
        
 - 👨‍💻 I have a keen interest in all things related to Science and Technology (definitely a nerd 🤓!), with a particular focus on Machine Learning, Computer Vision and Data Science. I am currently focused on my Master's thesis, working on the problem of UAV Absolute Visual Localization.
 
